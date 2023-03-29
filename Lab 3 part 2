@@ -1,0 +1,8 @@
+score1=input('Enter Score for INS405')
+score2=input('Enter Score for BUIS360')
+score3=input('Enter Score for DANL470 ')
+
+sum=int(score1)+(score2)+(score3)
+    print('sum')
+average=int(score1)+(score2)+(score3)/3
+    print('average')
