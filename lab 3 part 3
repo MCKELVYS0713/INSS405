@@ -1,6 +1,0 @@
-number=input('number'):
-if(int(number)/2==0 and int('number)=0):
-  print('even')
-elif:
-if(int(number)/2==0 and int('number)=0): 
-  print('Odd')
